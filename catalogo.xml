@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+  <producto>
+    <nombre>portatiles</nombre>
+    <precio>200</precio>
+  </producto>
+  <producto>
+    <nombre>consolas de play 5</nombre>
+    <precio>400</precio>
+  </producto>
+</catalogo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario SYSTEM "inventario.dtd">
+<inventario>
+    <ordenador id="PC001">
+        <ubicacion>videojuegos</ubicacion>
+        <usuario>andy lopez gutierrez</usuario>
+        <sistemaOperativo>Windows 10 Pro</sistemaOperativo>
+    </ordenador>
+    <ordenador id="PC002">
+        <ubicacion>local 44</ubicacion>
+        <usuario>pedro guindal</usuario>
+        <sistemaOperativo>Ubuntu 20.04 LTS</sistemaOperativo>
+    </ordenador>
+</inventario>
